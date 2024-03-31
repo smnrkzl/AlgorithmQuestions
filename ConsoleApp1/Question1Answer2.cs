@@ -9,7 +9,7 @@ namespace AlgorithmQuestions
     public class Question1Answer2
     {
 
-        public void answer1in2()
+        public void answer2()
         {
             //Write an application that returns the sum of two numbers(values will be received from the user)
 
